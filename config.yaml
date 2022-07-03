@@ -1,0 +1,36 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "carter's page"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  posts: "/posts/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About
+      url: "about/"
+      weight: 2
+    - name: Posts
+      url: "posts/"
+      weight: 3
+    - name: RSS
+      weight: 4
+      url: "index.xml"
+
+params:
+  description: "carter's page"
+  footer: "[Github](https://github.com/SoopaKhell) │ [Snapchat](https://www.snapchat.com/add/carteraprince?share_id=cgLgsyWh7WI&locale=en-US) │ [Email](mailto:carteraprince@gmail.com) "
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
