@@ -71,4 +71,6 @@ I enjoy programming. These are the languages I am mostly familiar with:
 - [Snapchat](https://www.snapchat.com/add/carteraprince?share_id=cgLgsyWh7WI&locale=en-US)
 - [Email](mailto:carteraprince@gmail.com)
 
-TODO: Picture of Leo goes here
+## Free Kitty!
+
+![](/kitty.png)
