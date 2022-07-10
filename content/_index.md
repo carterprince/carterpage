@@ -1,5 +1,5 @@
 ---
-title: carterprince.us
+title: Home
 ---
 
 # Carter Prince
