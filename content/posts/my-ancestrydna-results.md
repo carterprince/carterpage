@@ -18,7 +18,7 @@ However, I later decided I don't care. I mean, I don't plan on committing crimes
 | Ireland | 8% |
 | **Total** | **100%** |
 
-So basically, the British Isles, and then Norway and Sweden for some reason.
+So basically, the British Isles, and then Sweden and Denmark for some reason.
 
 ## The Map
 
