@@ -13,7 +13,7 @@ date: 2022-07-09 10:17:05
 
 Music will probably be the most controversial section of this article, so I will tackle it first and in the most detail. Most of the points in this section apply to every other medium one might hoard.
 
-I have a somewhat large (3-4 GB) collection of music on my computer. This isn't large relative to how much disk space most people have available, but in the realm of audio files it kind of a lot. I keep all my music in `~/music`. Usually, I listen to it with a shortcut that opens the folder in [`mpv`](https://mpv.io/), but sometimes I will use [`cmus`](https://cmus.github.io/). I do sometimes use spotify, but only to discover new music via the Discover Weekly feature.
+I have a somewhat large (3-4 GB) collection of music on my computer. This isn't large relative to how much disk space most people have available, but in the realm of audio files it's kind of a lot. I keep all my music in `~/music`. Usually, I listen to it with a shortcut that opens the folder in [`mpv`](https://mpv.io/), but sometimes I will use [`cmus`](https://cmus.github.io/). I do sometimes use spotify, but only to discover new music via the Discover Weekly feature.
 
 So why download all your music? Well, part of it for me is because of my aforementioned data hoarding.
 
