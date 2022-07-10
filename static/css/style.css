@@ -15,7 +15,7 @@ body {
   border-radius: 5px;
 }
 
-.menu a, .menu a:visited {
+.menu a, .menu a:visited, footer a {
 	color: #0000EE;
 }
 
