@@ -18,7 +18,7 @@ I generally use [free software](https://en.wikipedia.org/wiki/Free_software), an
 - Window Manager: [dwm](https://dwm.suckless.org/) 
 - Notifications: [Dunst](https://dunst-project.org/)
 - Status bar: [dwmblocks](https://github.com/torrinfail/dwmblocks)
-- Browser: [Chromium](https://www.chromium.org/) 
+- Browser: [Chromium](https://www.chromium.org/), [qutebrowser](https://www.qutebrowser.org/)
 - Image editor: [GIMP](https://www.gimp.org/) 
 - Image viewer: [nsxiv](https://codeberg.org/nsxiv/nsxiv) 
 - PDF viewer: [Zathura](https://pwmt.org/projects/zathura/) 
