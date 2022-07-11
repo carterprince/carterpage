@@ -69,7 +69,7 @@ If you're a noob, just use the [Kiwix client](https://www.kiwix.org/en/) to down
 
 # Videos
 
-You can also use tools like `youtube-dl` to download videos (or whole channels) for offline viewing. I recommend `yt-dlp`, which is just a fork of `youtube-dl` with new features that is more actively maintained. Again, I won't explain how to use these tools, I'm just pointing you in the right direction.
+You can also use tools like [`youtube-dl`](http://ytdl-org.github.io/youtube-dl/) to download videos (or whole channels) for offline viewing. I recommend [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), which is just a fork of `youtube-dl` with new features that is more actively maintained. Again, I won't explain how to use these tools, I'm just pointing you in the right direction.
 
 # See Also
 
