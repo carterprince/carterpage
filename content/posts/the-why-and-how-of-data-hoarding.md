@@ -77,4 +77,4 @@ You can also use tools like [`youtube-dl`](http://ytdl-org.github.io/youtube-dl/
 2. [Open access - Wikipedia](https://en.wikipedia.org/wiki/Open_access)
 3. [Sci-Hub - About](https://sci-hub.se/about)
 
-#### Disclaimer: For Legal reasons, this article is a joke.
+#### Disclaimer: For legal reasons, this article is a joke.
