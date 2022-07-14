@@ -51,6 +51,14 @@ Change directory to the location you'd like to download your music to. Then give
 spotdl [playlist-url]
 ```
 
+Or, you can download all your liked songs with
+
+```sh
+spotdl --user-auth saved
+```
+
+It will open a browser tab to authenticate your login.
+
 SpotDL will download the playlist asynchronously (i.e. several songs at a time). I believe the way it works is it finds the closest match for each song on Youtube, then uses `youtube-dl` to save it as an mp3 in the current directory.
 
 # Books, Academic Articles (technically illegal ™)
