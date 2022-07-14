@@ -7,13 +7,13 @@ date: 2022-07-09 10:17:05
 
 # What's that?
 
-[Data hoarding](https://en.wikipedia.org/wiki/Digital_hoarding) is simply hoarding applied to data. I am a chonic data hoarder. I stumble across something mildly large and useful on the internet, and all of the sudden I want 3 copies of it stored on all my devices. I also like the idea of being the one guy in a 30 mile radius who thought to download wikipedia in the rare event that the internet disappears (but humanity itself somehow does not). So what do I hoard?
+[Data hoarding](https://en.wikipedia.org/wiki/Digital_hoarding) is simply hoarding applied to data. I am a chronic data hoarder. I stumble across something mildly large and useful on the internet, and all of the sudden I want 3 copies of it stored on all my devices. I also like the idea of being the one guy in a 30 mile radius who thought to download Wikipedia in the rare event that the internet disappears (but humanity itself somehow does not). So what do I hoard?
 
 # Music
 
 Music will probably be the most controversial section of this article, so I will tackle it first and in the most detail. Most of the points in this section apply to every other medium one might hoard.
 
-I have a somewhat large (3-4 GB) collection of music on my computer. This isn't large relative to how much disk space most people have available, but in the realm of audio files it's kind of a lot. I keep all my music in `~/music`. Usually, I listen to it with a shortcut that opens the folder in [`mpv`](https://mpv.io/), but sometimes I will use [`cmus`](https://cmus.github.io/). I do sometimes use spotify, but only to discover new music via the Discover Weekly feature.
+I have a somewhat large (3-4 GB) collection of music on my computer. This isn't large relative to how much disk space most people have available, but in the realm of audio files it's kind of a lot. I keep all my music in `~/music`. Usually, I listen to it with a shortcut that opens the folder in [`mpv`](https://mpv.io/), but sometimes I will use [`cmus`](https://cmus.github.io/). I do sometimes use Spotify, but only to discover new music via the Discover Weekly feature.
 
 So why download all your music? Well, part of it for me is because of my aforementioned data hoarding.
 
@@ -23,7 +23,7 @@ But there *are* practical reasons for doing this.
 
 One such reason is offline listening. There are situations where using the internet simply isn't an option, such as on a plane, while camping, or if your internet happens to go down. Because the music is stored directly on disk, there is also no such thing as buffering or waiting for you music to load.
 
-Morever, if you don't pay for Spotify Premium, Spotify will give you ads. These ads are [notoriously annoying](https://www.youtube.com/watch?v=BvQ571eAOZE), and they are the primary reason people purchase Premium. However, a little-known fact is you don't actually have to pay for Premium to get rid of the ads. You can just install a blocker such as [uBlock](https://ublockorigin.com/), or use [Brave](https://brave.com/).
+Moreover, if you don't pay for Spotify Premium, Spotify will give you ads. These ads are [notoriously annoying](https://www.youtube.com/watch?v=BvQ571eAOZE), and they are the primary reason people purchase Premium. However, a little-known fact is you don't actually have to pay for Premium to get rid of the ads. You can just install a blocker such as [uBlock](https://ublockorigin.com/), or use [Brave](https://brave.com/).
 
 If you just download your music, however, there is no threat of Spotify circumventing uBlock in the future, and there is no need to pay. Completely free forever.
 
@@ -31,11 +31,11 @@ Now you might be thinking:
 
 > But Carter! I only listen to music on my phone in the car! I can't download my music there!
 
-If you listen to music on your phone in the car, frankly that's just another argument for downloading your music, because cell service can be flaky when you are driving especially if you live in a more rural area like me.
+If you listen to music on your phone in the car, frankly that's just another argument for downloading your music, because cell service can be flaky when you are driving especially if you live in a more rural area like me. And yes, you can store your music directly on your phone.
 
 So I recommend you download all your music to your computer, sync your music folder to your phone with a piece of software like [Syncthing](https://syncthing.net/), then actually play the music on your phone with an offline player (I recommend [BlackPlayer](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree&hl=en_US&gl=US) if you're on Android). I won't explain how to set up Syncthing or BlackPlayer, as you can find plenty of tutorials on that yourself, I just wanted to point you towards some good options (of course these aren't the only ones you have to choose from).
 
-And finally, downloading your music literally makes you more independent, which is always desirable, especially when there is such a widespread deficit of independence in the modern digital world.
+And finally, downloading your music literally makes you more independent, which is always desirable, especially when there is such a widespread deficit of independence in the modern digital world. It's becoming more and more of a thing for people to give up having files for themselves (on disk, that is) and instead just putting everything on some service like DropBox or Google Drive, which I find kind of sad.
 
 ## Getting your music
 
@@ -59,13 +59,19 @@ You can download almost any book or textbook completely free on [Library Genesis
 
 Most academic papers and articles are available at [Sci-Hub](https://sci-hub.se/), simply paste the link to the article (or a DOI) in the input box.
 
-Keep in mind, the links here are subject to change, as the existence of these sites is explicitly illegal so the owners are constantly domain hopping.
+Keep in mind, the links here are subject to change, as the existence of these sites is explicitly illegal (in the eyes of established law) so the owners are constantly domain hopping. There are also alternative domains to these sites that I do not list here. If you want to use those, simply google the name of the site and scroll.
 
 # Websites via Kiwix
 
 Kiwix is a way to download websites and other content for offline viewing. These include Wikipedia (~95 GB), technical information, public domain books, etc. My current collection of `.zim` files amounts to a whopping 351 GB.
 
-If you're a noob, just use the [Kiwix client](https://www.kiwix.org/en/) to download what you want. If you want to torrent the `.zim` files and maintain a `library.xml` manually, you can view all content offered by Kiwix [here](https://wiki.kiwix.org/wiki/Content_in_all_languages). You can host your own Kiwix server using [`kiwix-serve`](https://www.kiwix.org/en/downloads/kiwix-serve/).
+Kiwix, combined with modern storage capacities, is truly an incredible sight to behold. It allows you to store basically all the knowledge you could ever practically need, as well as plenty of books on a chip smaller than the tip of your pinky.
+
+![](/sandisk.jpg)
+
+You may think this kind of highly compact storage must be prohibitively expensive, but the truth is it's really not; [the SanDisk Ultra 1TB MicroSD costs around $100 on Amazon](https://www.amazon.com/SanDisk-Ultra-MicroSDXC-Memory-Adapter/dp/B08HCPTMJG/).
+
+If you're a noob, I recommend you just use the [Kiwix client](https://www.kiwix.org/en/) to download what you want. If you want to torrent the `.zim` files and maintain a `library.xml` manually, you can view all content offered by Kiwix [here](https://wiki.kiwix.org/wiki/Content_in_all_languages). You can host your own Kiwix server using [`kiwix-serve`](https://www.kiwix.org/en/downloads/kiwix-serve/).
 
 # Videos
 
