@@ -26,7 +26,7 @@ menu:
 
 params:
   description: "carter's page"
-  footer: "[GitHub](https://github.com/carterprince) │ [Snapchat](https://www.snapchat.com/add/carteraprince?share_id=cgLgsyWh7WI&locale=en-US) │ [Email](mailto:carteraprince@gmail.com) "
+  footer: "[GitHub](https://github.com/carterprince) │ [Email](mailto:carteraprince@gmail.com)"
 
 markup:
   highlight:

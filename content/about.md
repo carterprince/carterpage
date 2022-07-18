@@ -18,7 +18,7 @@ I generally use [free software](https://en.wikipedia.org/wiki/Free_software), an
 - Window Manager: [dwm](https://dwm.suckless.org/) 
 - Notifications: [Dunst](https://dunst-project.org/)
 - Status bar: [dwmblocks](https://github.com/torrinfail/dwmblocks)
-- Browser: [Chromium](https://www.chromium.org/), [qutebrowser](https://www.qutebrowser.org/)
+- Browser: [qutebrowser](https://www.qutebrowser.org/), [Chromium](https://www.chromium.org/)
 - Image editor: [GIMP](https://www.gimp.org/) 
 - Image viewer: [nsxiv](https://codeberg.org/nsxiv/nsxiv) 
 - PDF viewer: [Zathura](https://pwmt.org/projects/zathura/) 
@@ -65,11 +65,12 @@ I enjoy programming. These are the languages I am mostly familiar with:
 - Go
 - POSIX sh
 
-## Contact
+A few projects I have made:
 
-- [GitHub](https://github.com/carterprince)
-- [Snapchat](https://www.snapchat.com/add/carteraprince?share_id=cgLgsyWh7WI&locale=en-US)
-- [Email](mailto:carteraprince@gmail.com)
+- [libby](https://github.com/carterprince/libby), a convenient cli tool to quickly download books from Library Genesis
+- [wiki](https://github.com/carterprince/wiki), "I'm feeling lucky" search for MediaWiki sites such as Wikipedia
+- [universe](https://github.com/carterprince/universe), a Python clone of Orteil's [Nested](https://orteil.dashnet.org/nested), old, buggy
+- [canvas](https://github.com/carterprince/discord-canvas), an r/place clone for my friends and I (originally a discord bot, then a website, now defunct)
 
 ## Free Kitty!
 
