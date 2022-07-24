@@ -65,6 +65,8 @@ SpotDL will download the playlist asynchronously (i.e. several songs at a time).
 
 You can download almost any book or textbook completely free on [Library Genesis](https://libgen.fun/) and [Z-Library](https://z-lib.org/).
 
+I have a script on my GitHub called [`libby`](https://github.com/carterprince/libby) which allows you to quickly download books from these sources right on the command line.
+
 Most academic papers and articles are available at [Sci-Hub](https://sci-hub.se/), simply paste the link to the article (or a DOI) in the input box.
 
 Keep in mind, the links here are subject to change, as the existence of these sites is explicitly illegal (in the eyes of established law) so the owners are constantly domain hopping. There are also alternative domains to these sites that I do not list here. If you want to use those, simply google the name of the site and scroll.
