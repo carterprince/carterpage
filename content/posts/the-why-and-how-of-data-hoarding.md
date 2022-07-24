@@ -79,7 +79,7 @@ Kiwix, combined with modern storage capacities, is truly an incredible sight to 
 
 ![](/sandisk.jpg)
 
-You may think this kind of highly compact storage must be prohibitively expensive, but the truth is it's really not; [the SanDisk Ultra 1TB MicroSD costs around $100 on Amazon](https://www.amazon.com/SanDisk-Ultra-MicroSDXC-Memory-Adapter/dp/B08HCPTMJG/).
+You may think this kind of highly compact storage must be prohibitively expensive, but the truth is it's really not; [the SanDisk Ultra 1TB MicroSD costs around ~~$100~~ $126 on Amazon](https://www.amazon.com/SanDisk-Ultra-MicroSDXC-Memory-Adapter/dp/B08HCPTMJG/).
 
 If you're a noob, I recommend you just use the [Kiwix client](https://www.kiwix.org/en/) to download what you want. If you want to torrent the `.zim` files and maintain a `library.xml` manually, you can view all content offered by Kiwix [here](https://wiki.kiwix.org/wiki/Content_in_all_languages). You can host your own Kiwix server using [`kiwix-serve`](https://www.kiwix.org/en/downloads/kiwix-serve/).
 
